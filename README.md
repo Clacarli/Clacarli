@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Clacarli
 - 👀 I’m interested in Data Analysis, Project Management, Travel, Humans, Start-ups, Languages, Private Finance
 - 🌱 I’m currently learning Data Analysis and programming
-- 💞️ I’m looking to collaborate on any project I can train my amatorial levels, especially if for improved social and environmental impact
+- 💞️ I’m looking to collaborate on any data analysis and coding project where I can train, especially if for social and environmental impact
 - 📫 How to reach me clacarli@hotmail.com
 
 <!---
