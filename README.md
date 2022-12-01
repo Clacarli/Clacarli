@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Clacarli
-- 👀 I’m interested in Data Analysis, Project Management, Travel, Humans, Start-ups, Languages, Private Finance
-- 🌱 I’m currently learning Data Analysis and programming
-- 💞️ I’m looking to collaborate on any data analysis and coding project where I can train, especially if for social and environmental impact
-- 📫 How to reach me clacarli@hotmail.com
+- 👀 A seasoned Project Manager, an evolving Data Analyst and a SQL addict
+- 🗺️ The world is my home after living in 5 countries and many cities
+- 🪅 Speaking English, Spanish and Italian fluently
+- 🪂 Interests: Travel, Humans, Energy, Entrepreneurship, Multicultural profiling, Languages, Finance, Social progress and Sustainability
+- 🌱 Currently building my portfolio projects and brand (Qweris)
+- 💞️ Looking to collaborate on analytic projects 
+- 📫 How to reach me clacarli@hotmail.com / claudiacarli7@gmail.com
 
 <!---
 Clacarli/Clacarli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
